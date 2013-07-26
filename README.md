@@ -8,9 +8,12 @@ In order to use this as a starter app, you'll have to simply import the ActionBa
 Steps to import the library (using eclipse, others should be similar):
 
 1) Import... existing Android code into workspace
+
 2) Select the directory where the library exists
         ../sdk/extras/android/support/v7/appcompat
+        
 3) Copy projects into workspace (optional)
+
 4) Finish
 
 In your project:
